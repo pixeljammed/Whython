@@ -1,7 +1,9 @@
-# Bython
+# Whython
 Python with braces. Because Python is awesome, but whitespace is awful.
 
-Bython is a Python preprosessor which translates curly brackets into indentation.
+Whython is a Python preprosessor which does stupid things, like force you to put **end** at the end of an indentation.
+
+Forked from Bython.
 
 
 ## Content of README:
@@ -22,15 +24,15 @@ Bython is a Python preprosessor which translates curly brackets into indentation
 ## Code example
 
 ```python
-def print_message(num_of_times) {
-    for i in range(num_of_times) {
-        print("Bython is awesome!");
-    }
-}
+def scream(shout, count)
+    for x in range(count) do
+        print(shout);
+    end
+end
 
-if __name__ == "__main__" {
+if __name__ == "__main__" then
     print_message(10);
-}
+end
 ```
 
 
