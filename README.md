@@ -1,5 +1,5 @@
 # Whython
-Python with braces. Because Python is awesome, but whitespace is awful.
+Python with a dash of Lua. Because Lua is awesome - but nobody ever uses it for anything - lol!
 
 Whython is a Python preprosessor which does stupid things, like force you to put **end** at the end of an indentation.
 
@@ -16,7 +16,7 @@ Forked from Bython.
 
 ## Key features
 
- * "Forget" about indentaition. You should still write beautiful code, but if you mess up with tabs/spaces, or copy one piece of code to another that uses a different indentation style, it won't break.
+ * Ponder why I even made this for anything other than a crap hobby project I won't update for yonkertons.
 
  * Uses Python for interpretation, that means that all of your existing modules, like NumPy and Matplotlib still works.
 
